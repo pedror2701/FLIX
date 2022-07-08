@@ -1,7 +1,5 @@
 # LISTAS-PARA-O-KODI
 https://tinyurl.com/app
-<br>
-https://mytuner-radio.com/
 
 SITES PARA BAIXAR FILMES TORRENT
 <br>
@@ -14,4 +12,5 @@ SITES PARA BAIXAR FILMES TORRENT
 SITES PARA OUVIR RADIOS
 <br>
 -> https://www.internet-radio.com/
-
+<br>
+https://mytuner-radio.com/
