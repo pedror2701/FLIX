@@ -20,14 +20,14 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4D8DB064E2B179EC12
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/bloody-summer-camp-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Bloody Summer Camp - Legendado (2022)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83D357E280FCA92F5521573F33A3BA08A2550973&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-2.38-GB.Bloody.Summer.Camp.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/black-glasses-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Black Glasses - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:972119F4F2C914E2F003F90372A4718881E903C3&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.63-GB.Black.Glasses.2022.1080p.BluRay.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/blood-in-the-water-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Blood in the Water - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F5194F89975EE5B207B27E5BE55633B36169043&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.63-GB.Blood.In.the.Water.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/men-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Men - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57dbbf16c616796ab81c072bef11f02aac0c6f27&dn=VACATORRENT.COM..MP4.-LEGENDADO-..Men.2022.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2860&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13730&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14800
 
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
