@@ -1,4 +1,6 @@
 # LISTAS-PARA-O-KODI
+<br>
+https://tinyurl.com/app
 
 SITES PARA BAIXAR FILMES TORRENT
 <br>
@@ -7,3 +9,8 @@ SITES PARA BAIXAR FILMES TORRENT
 -> https://abutretorrents.com/terror/5/
 <br>
 ->https://vacatorrent.com/filmes-terror
+
+SITES PARA OUVIR RADIOS
+<br>
+-> https://www.internet-radio.com/
+
