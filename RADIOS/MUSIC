@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" tvg-logo="https://pbs.twimg.com/profile_images/991751998038044672/1DWFvZLH_400x400.jpg",MOVE DA HOUSE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/991751998038044672/1DWFvZLH_400x400.jpg",MOVE DA HOUSE
 https://uk7.internet-radio.com/proxy/movedahouse?mp=/stream;
 
-#EXTINF:-1 group-title="" tvg-logo="logo da radio aqui",nome da radio aqui
+#EXTINF:-1 tvg-logo="logo da radio aqui",nome da radio aqui
 url da radio aqui
 
-#EXTINF:-1 group-title="" tvg-logo="logo da radio aqui",nome da radio aqui
+#EXTINF:-1 tvg-logo="logo da radio aqui",nome da radio aqui
 url da radio aqui
 
 
