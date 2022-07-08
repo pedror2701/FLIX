@@ -6,6 +6,111 @@ https://uk7.internet-radio.com/proxy/movedahouse?mp=/stream;
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s193076/images/logog.jpg",Dance Attack FM - The best EDM
 https://uk4.internet-radio.com/proxy/danceattackfm?mp=/stream;
 
+#EXTINF:-1 tvg-logo="https://iptvnovo1.000webhostapp.com/arquivos%20meu%20iptv/logo%20marca/Radio_181fm.png",RADIO-24h-181FM
+http://listen.181fm.com/181-powerexplicit_128k.mp3?listenerId=77e7f445ed112cb1914e76f41edc7771&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1649520578
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO ForrÃ³
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO EletrÃ´nica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Sertanejo RomÃ¢ntico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png",RADIO RomÃ¢nticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ivdf27M.png",RADIO Alegria FM
+http://stream.ouveai.com.br:8061/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6sLoNZn.png",RADIO Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ClakDxW.png",RADIO Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dT8ZOeg.png",RADIO AtlÃ¢ntida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WZrYSBf.gif",RADIO Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oRYDaYf.png",RADIO Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TKZ90g5.png",RADIO Eldorado FM
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I5y8DaH.png",RADIO Princesa FM
+http://noasrv.caster.fm:10124/stream
+
 #EXTINF:-1 tvg-logo="logo da radio aqui",nome da radio aqui
 url da radio aqui
 
