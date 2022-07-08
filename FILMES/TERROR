@@ -8,5 +8,107 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d70ad38c1c08663ddeb
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/tales-from-the-other-side-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Tales from the Other Side - Legendado (2022)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF41C69F9B9CC68ACD4EDCBEC5E0229AF2F2BA6D&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.65-GB.Tales.From.the.Other.Side.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/a-noite-da-baba-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", A Noite da Babá - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B806BD13C41FE3D5FFE768C4F7275027EDE6FF96&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.44-GB.The.Nannys.Night.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/v-for-vengeance-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", V for Vengeance - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05D793DBA3CC7C5FF574DE3E0C166C1E12C3D554&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.56-GB.V.for.Vengeance.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/zero-avenue-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Zero Avenue - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4D8DB064E2B179EC12983FCFD01D53DD753B94E&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.47-GB.Zero.Avenue.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/bloody-summer-camp-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Bloody Summer Camp - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83D357E280FCA92F5521573F33A3BA08A2550973&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-2.38-GB.Bloody.Summer.Camp.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+plugin://plugin.video.elementum/play?uri=MAGNET
+
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
