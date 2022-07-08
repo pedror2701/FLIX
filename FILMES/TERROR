@@ -29,35 +29,35 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F5194F89975EE5B207
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/men-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Men - Legendado (2022)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57dbbf16c616796ab81c072bef11f02aac0c6f27&dn=VACATORRENT.COM..MP4.-LEGENDADO-..Men.2022.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2860&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13730&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14800
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/watcher-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Watcher - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aba9604a27c6e7ca79d63d74ac5b0c1a64b587ec&dn=VACATORRENT.COM..MP4.-LEGENDADO-..Watcher.2022.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2890&tr=udp%3A%2F%2F9.rarbg.to%3A2990&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15780&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12760
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/o-cirurgiao-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", O Cirurgião - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B77F71D8804B50F3AC0F726C9E3405FCFF752191&dn=VACATORRENT.COM.WEB-DL-720P-LEGENDA-FIXA-MKV-1.52-GB.The.Surgeon.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/the-overnight-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", The Overnight - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4B847D64E503AAD76A1D949AB4EAE4C7E116A3B&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.76-GB.The.Overnight.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/at-the-mountains-of-madness-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", At the Mountains of Madness - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4304FC9FD339125E52DFFCE971F857DA8EF06835&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.72-GB.At.the.Mountains.of.Madness.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/shriekshow-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Shriekshow - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B59814135C93302DE07B4062B85B1D27E83CBE77&dn=VACATORRENT.COM.WEB-DL-720P-LEGENDA-FIXA-MKV-1.99-GB.Shriekshow.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/student-body-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Student Body - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA6EDCCF0B3FAA4ADDF962A8E91EFF76A6729EFE&dn=VACATORRENT.COM.BLURAY-1080P-LEGENDA-FIXA-MKV-1.64-GB.Student.Body.2022.1080p.BluRay.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/chamas-da-vinganca-legendado-firestarter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Chamas da Vingança - Legendado
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F72458DE51A29A6BEA4F9427E265DDF2A3991791&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.80-GB.Firestarter.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/dark-cloud-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Dark Cloud - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D5C9998AB2675EB9960A92BF315B94485890F08&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.56-GB.Dark.Cloud.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/deadware-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Deadware - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9591AB9C3E7141C1EB142272EB509D5D9BF1C11&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.32-GB.Deadware.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/the-surgeon-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", The Surgeon - Legendado Torrent
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B77F71D8804B50F3AC0F726C9E3405FCFF752191&dn=VACATORRENT.COM.WEB-DL-720P-LEGENDA-FIXA-MKV-1.52-GB.The.Surgeon.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
