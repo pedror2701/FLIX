@@ -5,8 +5,8 @@
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/marcas-da-maldicao-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Marcas da Maldição - Legendado (2022)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d70ad38c1c08663ddebb8e0672a7a8755b005b81&dn=VACATORRENT.COM..MKV.-LEGENDADO-..Incantation.2022.CHINESE.720p.NF.WEBRip.DDP5.1.x264-SMURF&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2900&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12760&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/tales-from-the-other-side-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Tales from the Other Side - Legendado (2022)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF41C69F9B9CC68ACD4EDCBEC5E0229AF2F2BA6D&dn=VACATORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-1.65-GB.Tales.From.the.Other.Side.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
