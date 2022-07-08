@@ -10,5 +10,3 @@ plugin://plugin.video.elementum/play?uri=MAGNET
 
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
-
-
