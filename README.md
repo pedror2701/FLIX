@@ -8,9 +8,12 @@ SITES PARA BAIXAR FILMES TORRENT
 -> https://abutretorrents.com/terror/5/
 <br>
 ->https://vacatorrent.com/filmes-terror
+<br>
+https://yts.movie/
 
 SITES PARA OUVIR RADIOS
 <br>
 -> https://www.internet-radio.com/
 <br>
 https://mytuner-radio.com/
+
