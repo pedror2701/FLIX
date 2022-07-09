@@ -2,7 +2,8 @@
 
 ::::::ATENÇAO::::::
 <br>
-A lista portugal so abre com vpn a lista brasil abre apenas sem o vpn
+AS LISTAS SO FUNCIONAM COM VPN
+VPNS UTILIZADOS: PROTON VPN / UNLIMITED VPN
 
 ENCURTADORES DE URL
 <br>
