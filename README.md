@@ -2,12 +2,7 @@
 https://tinyurl.com/app
 
 SITES PARA BAIXAR FILMES TORRENT
-<br>
--> https://ondebaixo.com/terror/2/
-<br>
--> https://abutretorrents.com/terror/5/
-<br>
-->https://vacatorrent.com/filmes-terror
+Stremio
 <br>
 https://yts.movie/
 
