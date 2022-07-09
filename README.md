@@ -9,7 +9,7 @@ Stremio
 <br>
 -> https://1337x.to/movie-lib-sort/Horror/all/score/desc/all/1/
 <br>
--> https://rarbgproxied.org/catalog/movies/Horror/
+-> https://rarbgproxied.org/catalog/movies/Horror/2/
 
 
 SITES PARA OUVIR RADIOS
