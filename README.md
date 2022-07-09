@@ -1,6 +1,7 @@
 # LISTAS-PARA-O-KODI
 
 ENCURTADORES DE URL
+<br>
 https://tinyurl.com/app
 
 SITES PARA BAIXAR FILMES TORRENT
