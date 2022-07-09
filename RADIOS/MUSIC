@@ -114,8 +114,8 @@ http://noasrv.caster.fm:10124/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s16084g.png",Rádio Comercial live
 https://media3.mcr.iol.pt/livefm/comercial.mp3/icecast.audio
 
-#EXTINF:-1 tvg-logo="logo da radio aqui",nome da radio aqui
-url da radio aqui
+#EXTINF:-1 tvg-logo="logo da radio aqui",Orbital FM
+http://centova.radios.pt:8401/;
 
 #EXTINF:-1 tvg-logo="logo da radio aqui",nome da radio aqui
 url da radio aqui
