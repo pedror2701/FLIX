@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",----- CINEMA / SERIES -----
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139976?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139976?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",----- DESPORTO -----
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139977?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/139977?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",----- PORTUGAL -----
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135944?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135944?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234098?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234098?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN H.265/HEVC
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2203?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2203?checkedby:iptvcat.net
 EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",A BOLA TV
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136661?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136661?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AFRO MUSIC CHANNEL
-plugin://plugin.video.f4mTester/?url=http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136674?checkedby:iptvcat.net
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136674?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132923?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC H.265/HEVC
