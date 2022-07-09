@@ -1,9 +1,11 @@
 # LISTAS-PARA-O-KODI
+
+ENCURTADORES DE URL
 https://tinyurl.com/app
 
 SITES PARA BAIXAR FILMES TORRENT
 <br>
-Stremio
+====== Stremio ======
 <br>
 -> https://yts.mx/browse-movies/0/all/horror/0/latest/0/all
 <br>
