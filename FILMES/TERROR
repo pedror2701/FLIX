@@ -1,54 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="LOGO" grouptitle="", ====== What is your favorite scary movie? ====== 08/07/2022 
+#EXTINF:-1 tvg-logo="LOGO", ====== What is your favorite scary movie? ====== 09/07/2022 
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/370412/poster_opt.jpg" aspect-radio="16:9", Incantation.2022.720p.WEB.h264-KOGi
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14f5ac7506aa072e357b11ee111f29b106f87fae&dn=Incantation.2022.720p.WEB.h264-KOGi&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13730&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/370419/poster_opt.jpg" aspect-radio="16:9", The.Initiation.of.Sarah.1978.720p.BluRay.H264.AAC-RARBG
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da645560664ebdfefdebd669acbc0f10aed5775e&dn=The.Initiation.of.Sarah.1978.720p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2730&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14760
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/370416/poster_opt.jpg" aspect-radio="16:9", Hell.High.1989.720p.BluRay.H264.AAC-RARBG
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e523e6148155f4a85d464f00a7ebc60074d8c07f&dn=Hell.High.1989.720p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2870&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13800&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12720
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/370382/poster_opt.jpg" aspect-radio="16:9", The.Summoned.2022.WEBRip.x264-ION10
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3eb7c1768f0b456d6a3998d1941ddea0e4093a7&dn=The.Summoned.2022.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2810&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12720&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14790
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/366846/poster_opt.jpg" aspect-radio="16:9", A.Banquet.2021.720p.BluRay.x264-PiGNUS
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb4a18ad786aacdae1309ef523f951ce721d0406&dn=A.Banquet.2021.720p.BluRay.x264-PiGNUS&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2890&tr=udp%3A%2F%2F9.rarbg.to%3A2930&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13760&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15770
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/370367/poster_opt.jpg" aspect-radio="16:9", She.Was.So.Pretty.2016.WEBRip.x264-ION10
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63ff8f6c643037ae547813797c0c017f8965a692&dn=She.Was.So.Pretty.2016.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2750&tr=udp%3A%2F%2F9.rarbg.to%3A2980&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12790&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/370366/poster_opt.jpg" aspect-radio="16:9", Orcus.2022.WEBRip.x264-ION10
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbbfcac5bdd7ceccfe93011a20c8810128fea0d3&dn=Orcus.2022.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2860&tr=udp%3A%2F%2F9.rarbg.to%3A2900&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13770&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15760
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/349247/poster_opt.jpg" aspect-radio="16:9", The.House.in.Between.2020.1080p.WEBRip.x265-RARBG
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf43a5fe8344dc1c29b2ee7f2c78dbcd3b99ad4a&dn=The.House.in.Between.2020.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2810&tr=udp%3A%2F%2F9.rarbg.to%3A2800
+
+#EXTINF:-1 tvg-logo="https://dyncdn.me/mimages/369932/poster_opt.jpg" aspect-radio="16:9", The.House.in.Between.2.2022.PROPER.WEBRip.x264-ION10
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f75e3f13faf296d2fa6dad87a090c3036ab6e8b4&dn=The.House.in.Between.2.2022.PROPER.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2860&tr=udp%3A%2F%2F9.rarbg.to%3A2870&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13710&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14720
+
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
+#EXTINF:-1 tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
