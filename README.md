@@ -1,5 +1,9 @@
 # LISTAS-PARA-O-KODI
 
+::::::ATENÇAO::::::
+<br>
+A lista portugal so abre com vpn a lista brasil abre apenas sem o vpn
+
 ENCURTADORES DE URL
 <br>
 https://tinyurl.com/app
