@@ -1,48 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1022214/21838/i/600/depositphotos_218385028-stock-photo-closeup-of-a-frightening-evil.jpg" grouptitle="", 😈FILMES DE TERROR😈 ====== DIVIRTA-SE ====== 08/07/2022 
+#EXTINF:-1 tvg-logo="LOGO" grouptitle="", ====== What is your favorite scary movie? ====== 08/07/2022 
 
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/marcas-da-maldicao-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Marcas da Maldição - Legendado (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1317a47afac4150e7d149983a3ffdbe86578454c
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/tales-from-the-other-side-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Tales from the Other Side - Legendado (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9540e5fa2c9001892a53cfdb314239e17af0c48
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://ondebaixo.com/imagens/blood-in-the-water-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Blood in the Water - Legendado (2022)
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2798EEDA5F21F5AD51D09D909275C74387327FD&dn=Blood+in+the+Water+%28I%29+%282022%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/watcher-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Watcher - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=magnet:?xt=magnet:?xt=urn:btih:3BF0501ADC6A8819572B351178144E4A1DB49AFB&dn=Watcher+%282022%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/o-cirurgiao-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", O Cirurgião - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/the-overnight-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", The Overnight - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/at-the-mountains-of-madness-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", At the Mountains of Madness - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/shriekshow-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Shriekshow - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/student-body-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Student Body - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/chamas-da-vinganca-legendado-firestarter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Chamas da Vingança - Legendado
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/dark-cloud-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Dark Cloud - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/deadware-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", Deadware - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://abutretorrents.com/imagens/the-surgeon-legendado-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-radio="16:9", The Surgeon - Legendado Torrent
-plugin://plugin.video.elementum/play?uri=
-
-#EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
-plugin://plugin.video.elementum/play?uri=MAGNET
+#EXTINF:-1 channelID="CATEGORIA" tvg-logo="https://img.yts.mx/assets/images/movies/hell_high_1989/medium-cover.jpg" aspect-radio="16:9", A Fúria da Raiva
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B7519A2621FF9B83650F2730126B7DB35045C93&dn=Hell+High+%281989%29+%5B720p%5D+%5BYTS.MX%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce
 
 #EXTINF:-1 channelID="CATEGORIA" tvg-logo="LOGO" aspect-radio="16:9", NOME FILME
 plugin://plugin.video.elementum/play?uri=MAGNET
