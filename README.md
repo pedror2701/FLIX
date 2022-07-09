@@ -10,8 +10,6 @@ ENCURTADORES DE URL
 
 SITES PARA BAIXAR FILMES TORRENT
 <br>
-====== Stremio ======
-<br>
 -> https://yts.mx/browse-movies/0/all/horror/0/latest/0/all
 <br>
 -> https://1337x.to/movie-lib-sort/Horror/all/score/desc/all/1/
